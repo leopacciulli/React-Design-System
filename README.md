@@ -8,7 +8,7 @@ https://www.figma.com/file/A5RiBGYvUlSMHMKwUuRDCC/Design-System---Ignite-Lab?nod
 <br />
 
 <div align="center">
-  <img src="./src/assets/ds.png" width="400">
+  <img src="./src/assets/ds.png">
 </div>
 
 <br />
